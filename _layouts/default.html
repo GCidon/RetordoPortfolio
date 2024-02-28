@@ -20,12 +20,12 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-
-        <p class="view"><a href="https://twitter.com/CidonP">Twitter</a></p>
-        
-        <p class="view"><a href="https://freestylers-studio.itch.io/">Itchio</a></p>
-
       </header>
+      <section>
+
+      {{ content }}
+
+      </section>
       <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
