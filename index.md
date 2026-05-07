@@ -22,7 +22,7 @@ Software developer. Videogame developer. Education mainly on videogame engines, 
 
 * * *
 
-### FreeStylers Studio
+### [FreeStylers Studio](https://freestylers-studio.itch.io/)
 
 Games made in Game Jams using mainly Godot and Unity, 2D and 3D. These are games made in less than one week, some of them only in 48 hours. My role in almost all of them was Gameplay Programmer and Music Designer, often also assuming the role of Designer.
 
@@ -45,12 +45,9 @@ Games made in Game Jams using mainly Godot and Unity, 2D and 3D. These are games
 ### Music
 
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dt><a href="https://store.steampowered.com/app/3587460/Dreadbone/">Dreadbone</a></dt>
+<dd>Also during my master's degree, worked with a game development group and helped with the audio and music design and implementation. Made in Unreal Engine.</dd>
+
+<dt><a href="https://drive.google.com/file/d/1uyrFQvHmqZgdxdQP-rxIrJT6piv2BqOj/view?usp=drive_link">Master's Degree in BSO composing</a></dt>
+<dd>A video reel showing my work during the master's degree I attended during 2024-2025. Applied my own music production to existing films' scenes and some of the games previously mentioned.</dd>
 </dl>
