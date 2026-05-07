@@ -40,6 +40,8 @@ Games made in Game Jams using mainly Godot and Unity, 2D and 3D. These are games
 <dd>Game made for the Mermelada Jam 2025. Simple relaxing fishing game, collect all the fish to know more about them. Made in Godot.</dd>
 </dl>
 
+These are some of the games we made as a group, all of them can be found in our <a href="https://freestylers-studio.itch.io/">itchio page</a>. 
+
 * * *
 
 ### Music
