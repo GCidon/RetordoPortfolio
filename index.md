@@ -27,16 +27,16 @@ Software developer. Videogame developer. Education mainly on videogame engines, 
 Games made in Game Jams using mainly Godot and Unity, 2D and 3D. These are games made in less than one week, some of them only in 48 hours. My role in almost all of them was Gameplay Programmer and Music Designer, often also assuming the role of Designer.
 
 <dl>
-<dt>[Mia Menso](https://freestylers-studio.itch.io/mia-menso)</dt>
+<dt><a href="https://freestylers-studio.itch.io/mia-menso">Mia Menso</a></dt>
 <dd>Game made for the Global Game Jam 2026. 3D FPS shooter with a synthwave aesthetic. Made in Unity.</dd>
 
-<dt>[Jefe, la cuenta](https://freestylers-studio.itch.io/jefe-la-cuenta)</dt>
+<dt><a href="https://freestylers-studio.itch.io/jefe-la-cuenta">Jefe, la cuenta</a></dt>
 <dd>Game made for the Malaga Game Jam 2025. Endless runner with a "drunk" meter to harden the gameplay. Made in Godot.</dd>
 
-<dt>[Una voz en Cancedo](https://freestylers-studio.itch.io/una-voz-en-cancedo)</dt>
+<dt><a href="https://freestylers-studio.itch.io/una-voz-en-cancedo">Una voz en Cancedo</a></dt>
 <dd>Game made for the Indie Spain Game Jam 2025. Story driven game using hand-drawn characters and pre-rendered scenery. Made in Unity.</dd>
 
-<dt>[Fresh Freaky Fish](https://freestylers-studio.itch.io/freshfreakyfish)</dt>
+<dt><a href="https://freestylers-studio.itch.io/freshfreakyfish">Fresh Freaky Fish</a></dt>
 <dd>Game made for the Mermelada Jam 2025. Simple relaxing fishing game, collect all the fish to know more about them. Made in Godot.</dd>
 </dl>
 
